@@ -1,5 +1,5 @@
 _repo: Divine-Comedy-Longfellow-s-Translation-Purgatory_1002
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Longfellow, Henry Wadsworth
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Epic poetry, Italian -- Translations into English'
 - !lcc 'PQ'
 - !lcsh 'Italian poetry -- To 1400 -- Translations into English'
+- GITenberg
 title: Divine Comedy, Longfellow's Translation, Purgatory
 url: http://www.gutenberg.org/ebooks/1002
